@@ -1,0 +1,16 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Tobacco Quitting Attempts",
+    "section": "",
+    "text": "Introduction\nWe are looking to observe in this tobacco use dataset from the CDC National Center for Health Statistics. This looks into the surveys taken from the country to smoking, e-smoking, prevalence of use through demographics, as well as quit attempts. It has sampled from all over the US as well as Guam to see the habits of smoking.\nThe interest of this research is to see which of the groups (cigarette vs e-cigarettes vs smokeless tobacco) are more successful in attempting to quit the habit?\n\n\nMethods\nThe data was collected using surveys from the Behavioral Risk Factor Surveillance System (BRFSS) from 2011 to 2019. The surveys take place over the years in different states (as well as Guam) to ask about smoking habits, what was measured, as well as whether they had succeeded in quitting or not. What was done was the data was cleaned to merely look at the year, location, topics of tobacco use, measures used for tobacco use, their response, the data value in percentage. Data value looks at how many people within the studies have been either the amount of participants who managed to attempt quitting in smoking or be considered former smokers.\n\nbarplot(1:5)"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  }
+]
